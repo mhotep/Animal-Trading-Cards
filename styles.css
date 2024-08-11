@@ -1,0 +1,37 @@
+/* add your CSS here */
+body {background-color: RoyalBlue;
+	width: 340px;
+}
+
+div.card{
+  	border: 2px;
+	border-style: solid;
+	padding: 5px;
+  	background-color: white;
+  	box-shadow: 5px 10px #888;
+}
+.name{
+  font-family: "Times New Roman", Times, serif; 
+	font-size: 36px;
+	border-style: hidden;
+	border-width: 1px;
+	padding: 1px;
+}
+img{
+  	padding: 1px;
+  	width: 300px;
+	height: auto;
+	border: 2px;
+	border-style: hidden;
+	border-width: 10px;
+}
+.fact{font-style: italic;}
+span{font-weight: bold;}
+li{list-style-type: none;}
+
+div.info{
+	border: 1px;
+	border-style: solid;
+	padding: 5px;
+  	background-color: white;
+}
